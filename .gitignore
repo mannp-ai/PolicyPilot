@@ -43,3 +43,7 @@ yarn-error.log*
 # OS / Temporary
 tmp/
 temp/
+
+# Final Documentation (Excluding from Repo)
+PolicyPilot_PRD.pdf
+PolicyPilot_Security_Hackathon_Readiness.pdf
