@@ -1,4 +1,4 @@
-# 🛰️ PolicyPilot: Apni Yojana, Apna Haq
+# PolicyPilot: Apni Yojana, Apna Haq
 > **Bridging the accessibility gap for 900+ Million rural citizens using Generative AI.**
 
 [![Hackathon Ready](https://img.shields.io/badge/Hackathon-Winner_Ready-orange.svg)](#)
@@ -7,28 +7,28 @@
 
 ---
 
-## 📌 The "Last Mile" Problem
+## The "Last Mile" Problem
 Every year, the Government of India allocates over **₹40 Lakh Crore** for welfare schemes. Yet, millions of eligible citizens in rural areas remain "invisible" to these benefits because:
 1. **Language Barriers**: Official gazettes are often in complex bureaucratese.
 2. **The "Search" Trap**: Existing portals require users to know the *name* of the scheme before they can find it.
 3. **Paperwork Friction**: Even if found, filling out forms is a massive hurdle for the semi-literate.
 
-## ✨ The PolicyPilot Solution
+## The PolicyPilot Solution
 PolicyPilot is an AI-first, accessibility-driven platform designed for the **Common Service Centre (CSC)** operators and rural citizens. It transforms complex government data into actionable guidance through natural conversation.
 
-### 🚀 Key Features
+### Key Features
 
-*   **🎙️ Multilingual Voice Interface**: Explain your situation in your native tongue (Hindi, Gujarati, Marathi, English).
-*   **💳 Aadhaar AI Extractor**: Upload a photo of your ID; Gemini Vision OCR auto-fills your profile in seconds.
-*   **🧠 RAG Matching Engine**: Uses a Vector Database (ChromaDB) to perform semantic matching against official government documents—matching *needs*, not just keywords.
-*   **⚠️ Smart Fraud Detection**: Automatically flags profile/scheme discrepancies (e.g., income limits or state mismatches) to build trust and accuracy.
-*   **📄 Auto-filled Application Gen**: Generates a pre-filled, printable PDF application form instantly from user data.
-*   **📶 100% Offline Mode (PWA)**: Built for "Dead Zones." The app caches UI and stores critical scheme data locally via Service Workers.
-*   **📍 CSC Locator**: Automatically shows the nearest physical Common Service Centre on Google Maps for last-mile submission.
+*   **Multilingual Voice Interface**: Explain your situation in your native tongue (Hindi, Gujarati, Marathi, English).
+*   **Aadhaar AI Extractor**: Upload a photo of your ID; Gemini Vision OCR auto-fills your profile in seconds.
+*   **RAG Matching Engine**: Uses a Vector Database (ChromaDB) to perform semantic matching against official government documents—matching needs, not just keywords.
+*   **Smart Fraud Detection**: Automatically flags profile/scheme discrepancies (e.g., income limits or state mismatches) to build trust and accuracy.
+*   **Auto-filled Application Gen**: Generates a pre-filled, printable PDF application form instantly from user data.
+*   **100% Offline Mode (PWA)**: Built for "Dead Zones." The app caches UI and stores critical scheme data locally via Service Workers.
+*   **CSC Locator**: Automatically shows the nearest physical Common Service Centre on Google Maps for last-mile submission.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React (Vite), Tailwind CSS, Framer Motion (for premium UI/UX).
 - **Backend**: FastAPI (Python), SlowAPI (Rate Limiting), Pydantic (Strict Security).
@@ -38,7 +38,7 @@ PolicyPilot is an AI-first, accessibility-driven platform designed for the **Com
 
 ---
 
-## 🚦 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 - Python 3.9+
@@ -63,7 +63,7 @@ npm run dev
 
 ---
 
-## 🛡️ Cybersecurity & Production Readiness
+## Cybersecurity & Production Readiness
 Unlike basic wrappers, PolicyPilot is built with security as a priority:
 - **Rate Limiting**: Protects against API exhaustion and DDOS.
 - **Input Sanitization**: Strict Pydantic validators prevent Large Context injection attacks.
@@ -71,8 +71,8 @@ Unlike basic wrappers, PolicyPilot is built with security as a priority:
 
 ---
 
-## 🌍 Impact
+## Impact
 PolicyPilot democratizes access to welfare, ensuring that **Apna Haq** (Your Right) is no longer a privilege of the digital elite, but a reality for every Indian citizen.
 
 ---
-*Built for the [PolicyPilot Security Hackathon] | 2026*
+*Built for the [IAR UDAAN HACKATHON] | 2026*
