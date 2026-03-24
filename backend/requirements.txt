@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+chromadb
+google-generativeai
+pypdf
+python-multipart
+python-dotenv
+slowapi
+fpdf2

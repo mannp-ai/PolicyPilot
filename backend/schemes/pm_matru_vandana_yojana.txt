@@ -1,0 +1,3 @@
+Scheme: PM Matru Vandana Yojana
+Description: A maternity benefit program which is a conditional cash transfer scheme.
+Eligibility: Regular criteria apply.

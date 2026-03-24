@@ -1,0 +1,3 @@
+Scheme: PM SVANidhi
+Description: A special micro-credit facility for street vendors to provide affordable loans.
+Eligibility: Regular criteria apply.

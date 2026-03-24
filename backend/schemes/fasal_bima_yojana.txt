@@ -1,0 +1,3 @@
+Scheme: Fasal Bima Yojana
+Description: An insurance service for farmers for their yields.
+Eligibility: Regular criteria apply.

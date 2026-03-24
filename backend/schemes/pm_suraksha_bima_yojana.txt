@@ -1,0 +1,3 @@
+Scheme: PM Suraksha Bima Yojana
+Description: An accident insurance scheme offering death and disability cover for unfortunate accidents.
+Eligibility: Regular criteria apply.

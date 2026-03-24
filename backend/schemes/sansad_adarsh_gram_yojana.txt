@@ -1,0 +1,3 @@
+Scheme: Sansad Adarsh Gram Yojana
+Description: A village development project under which each Member of Parliament takes the responsibility of developing villages.
+Eligibility: Regular criteria apply.

@@ -1,0 +1,3 @@
+Scheme: UDAAN Scheme
+Description: A regional airport development and 'Regional Connectivity Scheme' (RCS).
+Eligibility: Regular criteria apply.
